@@ -182,8 +182,4 @@ The Titanic dataset was successfully explored and preprocessed using Python. Mis
 
 ---
 
-## Author
 
-**Amala Binisha C**  
-M.Sc. Data Science  
-Bishop Heber College, Tiruchirappalli
